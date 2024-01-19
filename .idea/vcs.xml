@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArrayList_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ArrayList_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Autoboxing-Unboxing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BigDecimal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Checkpoint-2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Data_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Data_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Data_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Data_5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Date_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exception_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exception_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Factory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HashMap_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HashMap_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HashSet_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HashSet_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HashSet_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Linkedlist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Magazzino" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Nullability" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpTernario_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpTernario_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ProgettoCombattimento" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Prova_Checkpoint" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Record" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Singleton" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Testing_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Testing_2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Testing_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Testing_4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Testing_5" vcs="Git" />
+  </component>
+</project>
